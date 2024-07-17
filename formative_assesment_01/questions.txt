@@ -1,0 +1,24 @@
+1. What are the most common communication channels used for effective communication? 
+2. What is you meant by a website? 
+3. What is meant by Internet Protocol (IP address)? 
+4. How does computer hardware differ from software? 
+5. What is interactive website? 
+6. When does web developer's personal computer will be called a local server? 
+7. What is the function of FTP client? 
+8. Write down the correct sequence of HTML tags for starting a webpage 
+9. Write the tag used for inserting the largest heading in HTML 
+10. Write down the tag used for inserting a line break in webpage? 
+11. How will you create a hyperlink in HTML? 
+12. How to create Copyright symbol? 
+13. Insert a comment in html? 
+14. Do all html Tags come in a pair? 
+15. How do VPNs (Virtual Private Networks) enhance intranet security and connectivity? 
+16. How does an interactive website differ from static and dynamic websites? 
+17. Which code editor do you prefer for web design and development projects, and why? 
+18. Can you explain the basic purpose of FTP (File Transfer Protocol) software in web development? 
+19. How do you create a new Google Sheet in your Google Drive? 
+20. How do you insert an image in HTML? 
+21. How do you create HTML login form with submit button? 
+22. How do you create a list with bullets in HTML? 
+23. How do you create an ordered list in HTML? 
+24. What does the <br> tag do?

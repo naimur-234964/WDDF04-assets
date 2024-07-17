@@ -1,0 +1,22 @@
+Demo: 
+
+Educational Institute: 4-page website 
+
+    1. Homepage : 
+        a. Banner (full wide) 
+        b. Head of institute Image with details 
+        c. Course Details (Minimum 3 courses) 
+        d. Student/ Workshop Image Gallery (Minimum 6 items) 
+        
+    2. About us page: 
+        a. Staff profile with text (3 staff) 
+        b. About company with image 
+        
+    3. Contact Us 
+        a. Contact form (Name, Email, Phone number, Address , Details) 
+        b. Contact information (Address , Email, Phone number) 
+        c. Google Map 
+        
+    4. FAQ 
+        a. 5 questions & answer 
+
